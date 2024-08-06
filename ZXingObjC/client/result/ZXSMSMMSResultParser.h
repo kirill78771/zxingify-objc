@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXResultParser.h"
+#import <ZXingObjC/ZXResultParser.h>
 
 /**
  * Parses an "sms:" URI result, which specifies a number to SMS.

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXResultParser.h"
+#import <ZXingObjC/ZXResultParser.h>
 
 /**
  * Parses a "geo:" URI result, which specifies a location on the surface of

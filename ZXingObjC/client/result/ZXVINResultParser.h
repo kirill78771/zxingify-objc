@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXResultParser.h"
+#import <ZXingObjC/ZXResultParser.h>
 
 /**
  * Detects a result that is likely a vehicle identification number.

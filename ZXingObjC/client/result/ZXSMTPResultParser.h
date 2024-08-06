@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXResultParser.h"
+#import <ZXingObjC/ZXResultParser.h>
 
 /**
  * Parses an "smtp:" URI result, whose format is not standardized but appears to be like:

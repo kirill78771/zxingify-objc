@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXResultParser.h"
+#import <ZXingObjC/ZXResultParser.h>
 
 /**
  * Partially implements the iCalendar format's "VEVENT" format for specifying a

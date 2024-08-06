@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXResultPoint.h"
+#import <ZXingObjC/ZXResultPoint.h>
 
 /**
  * Encapsulates an alignment pattern, which are the smaller square patterns found in

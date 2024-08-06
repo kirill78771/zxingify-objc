@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXOneDimensionalCodeWriter.h"
+#import <ZXingObjC/ZXOneDimensionalCodeWriter.h>
 
 /**
  * Encapsulates functionality and implementation that is common to UPC and EAN families

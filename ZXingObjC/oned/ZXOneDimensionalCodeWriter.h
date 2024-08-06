@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXWriter.h"
+#import <ZXingObjC/ZXWriter.h>
 
 @class ZXBoolArray;
 

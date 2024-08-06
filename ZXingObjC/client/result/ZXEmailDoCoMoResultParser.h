@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXAbstractDoCoMoResultParser.h"
+#import <ZXingObjC/ZXAbstractDoCoMoResultParser.h>
 
 /**
  * Implements the "MATMSG" email message entry format.

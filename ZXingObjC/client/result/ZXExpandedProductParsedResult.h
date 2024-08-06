@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXParsedResult.h"
+#import <ZXingObjC/ZXParsedResult.h>
 
 extern NSString * const ZX_KILOGRAM;
 extern NSString * const ZX_POUND;

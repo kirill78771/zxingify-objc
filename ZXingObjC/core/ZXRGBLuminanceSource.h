@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXLuminanceSource.h"
+#import <ZXingObjC/ZXLuminanceSource.h>
 
 /**
  * This class is used to help decode images from files which arrive as RGB data from

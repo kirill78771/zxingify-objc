@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXParsedResult.h"
+#import <ZXingObjC/ZXParsedResult.h>
 
 /**
  * A simple result type encapsulating a string that has no further

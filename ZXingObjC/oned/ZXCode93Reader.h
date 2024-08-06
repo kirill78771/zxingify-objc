@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXOneDReader.h"
+#import <ZXingObjC/ZXOneDReader.h>
 
 extern const unichar ZX_CODE93_ALPHABET[];
 extern const NSString *ZX_CODE93_ALPHABET_STRING;

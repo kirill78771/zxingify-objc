@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXUPCEANWriter.h"
+#import <ZXingObjC/ZXUPCEANWriter.h>
 
 @interface ZXUPCEWriter : ZXUPCEANWriter
 

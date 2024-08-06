@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXOneDReader.h"
+#import <ZXingObjC/ZXOneDReader.h>
 
 /**
  * Implements decoding of the ITF format, or Interleaved Two of Five.

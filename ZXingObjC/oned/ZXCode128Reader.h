@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "ZXOneDReader.h"
+#import <ZXingObjC/ZXOneDReader.h>
 
 extern const int ZX_CODE128_CODE_PATTERNS[][7];
 
